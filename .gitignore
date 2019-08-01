@@ -1,3 +1,4 @@
 *.jpg
 data/
 .ipynb_*
+__pycache__
